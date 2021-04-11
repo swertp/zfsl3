@@ -94,7 +94,7 @@
          "name":"top",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -106,7 +106,7 @@
          "name":"book",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -118,7 +118,7 @@
          "objects":[],
          "opacity":0.55,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -127,7 +127,7 @@
          "height":34,
          "id":24,
          "name":"Welcome",
-         "opacity":0.35,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -317,7 +317,7 @@
                  "value":3
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
@@ -329,7 +329,7 @@
          "name":"override2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":46,
          "x":0,
          "y":0
